@@ -7,6 +7,7 @@
 name = "Hi, my name is #{name}."
 
 #introduction_with_language
+= "Hi, my name is #{name} and I am learning to program in #{language}."
 
 
 
