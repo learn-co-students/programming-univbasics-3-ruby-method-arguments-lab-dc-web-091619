@@ -4,10 +4,14 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 #introduction 
-name = "Hi, my name is #{name}."
+def greeting
+  puts "Hi, my name is #{name}."
+end
 
 #introduction_with_language
-= "Hi, my name is #{name} and I am learning to program in #{language}."
+def greeting
+  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end
 
 
 
